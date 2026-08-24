@@ -128,3 +128,7 @@ metrics tables and publication figures in DRIVE_FOLDER
   `statsmodels`
 - A Google Earth Engine project (used as `project='mangrove-research-505113'` in
   `1_18.ipynb`) for the GMW reference-mask sampling step
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
